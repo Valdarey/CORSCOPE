@@ -1,0 +1,19 @@
+{
+  "target": "https://lab.example",
+  "timestamp": "2026-01-01T00:00:00+00:00",
+  "corscope_version": "1.0.0",
+  "findings": [
+    {
+      "severity": "Informational",
+      "title": "Sample report only",
+      "description": "Illustrative data; not a real scan.",
+      "evidence": {},
+      "recommendation": "Run CORSCOPE against an authorized target.",
+      "confidence": "Low",
+      "verified_vulnerability": false
+    }
+  ],
+  "limitations": [
+    "Sample data only; no live target was tested."
+  ]
+}
